@@ -1,7 +1,7 @@
-2. Schuljahr (Ausbildung als staatlich geprüfter informationstechnischer Assistent) (Freizeit PMC)
+#1. Schuljahr (Ausbildung als staatlich geprüfter informationstechnischer Assistent) (Freizeit PMC)
 
-Das 2.Schuljahr neigte sich zum Ende und wir hatten noch immer nicht mit Fenster-Anwendungen angefangen;
-daher habe ich mich bei der damaligen Oberstufe ein wenig informiert und angefangen zu experementieren.
+Das 1.Schuljahr neigte sich zum Ende und wir hatten noch immer nicht mit Fenster-Anwendungen angefangen;
+daher habe ich mich bei der damaligen Mittelstufe ein wenig informiert und angefangen zu experementieren.
 Dieser Quellcode ist größtenteils vom Programm generiert, da mir das Wissen fehlte und ich den Designer
 benutzt habe. Es ist ein einfaches TicTacToe-Spiel, jedoch war mein Wissensstand nicht so weit, dass eine
 funktionierende Gewinnabfrage besteht. 
